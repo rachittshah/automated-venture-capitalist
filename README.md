@@ -16,6 +16,4 @@ An LLM tool for VCs, solving all the issues for top of the funnel for firms.
 
 Inspiration: https://twitter.com/AaryamanVir/status/1637448257419849728?t=4un7dQxcYeIYtjV-lWijAQ&s=19
 
-Deadline: 23/24th march
 
-Sell to VCs as a demo, start the consulting model.
